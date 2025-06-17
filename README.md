@@ -4,7 +4,7 @@
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
    Software Engineer | Game Developer
   </h4>
- <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Desan+Yasandu" alt="Typing SVG" /></a>font=Fira+Code&size=25&pause=1000&color=41F734&width=435&lines=Hello%2C+I'm+Kushan+Randika%2C;+I+am+a+Software+Engineer%2C;+I+am+a++Game+Developer%2C;+I+am+a+Graphic+Programmer%2C;+I+am+a+Penetration+Tester%
+ <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Desan+Yasandu" alt="Typing SVG" /></a>font=Fira+Code&size=25&pause=1000&color=41F734&width=435&lines=Hello%2C+I'm+Kushan+Randika%2C;
   <p style="max-width:600px; margin:auto; color:#555;">
     I'm a Software Engineer, Graphic Programmer, Game Developer, and Penetration Tester. I enjoy building creative software, designing games, exploring graphics, and testing systems for security.
   </p>
@@ -13,7 +13,7 @@
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 <div align="center">
-  <a href="https://1999azzar.github.io/Kushan20070126/" target="_blank">
+  <a href="https://1999azzar.github.io/DYD298/" target="_blank">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="Logo"
          style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
   </a>
@@ -57,10 +57,10 @@
     <table align="center">
       <tr>
         <td width="50%" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=Kushan20070126&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=DYD298&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
         </td>
         <td width="50%" align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=Kushan20070126&theme=gruvbox&hide_border=true" alt="Streak Stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=DYD298&theme=gruvbox&hide_border=true" alt="Streak Stats">
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
     <table align="center">
       <tr>
         <td align="center">
-          <img src="https://komarev.com/ghpvc/?username=Kushan20070126&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="height: 40px; margin: 0 10px;">
+          <img src="https://komarev.com/ghpvc/?username=DYD298&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="height: 40px; margin: 0 10px;">
         </td>
         <td align="center">
           <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" alt="Website Status" style="height: 40px; margin: 0 10px;">
@@ -95,7 +95,7 @@
   <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📅 Recent Activity</summary>
   <div align="center">
     <a href="https://github.com/Kushan20070126" target="_blank">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushan20070126&theme=github-compact&hide_border=true" alt="Activity Graph" style="border-radius: 10px; margin: 0 5px;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DYD298&theme=github-compact&hide_border=true" alt="Activity Graph" style="border-radius: 10px; margin: 0 5px;">
     </a>
   </div>
 </details>
@@ -116,7 +116,7 @@
 <table align="center" style="border-collapse: collapse; text-align: center;">
   <tr>
     <td style="padding: 10px;">
-      <a href="https://gist.github.com/Kushan20070126" target="_blank" style="text-decoration: none;">
+      <a href="https://gist.github.com/DYD298" target="_blank" style="text-decoration: none;">
         <i class="fa fa-github" style="font-size: 40px; color: #333;"></i>
         <br>Gist
       </a>
@@ -148,7 +148,7 @@
   </tr>
   <tr>
     <td style="padding: 10px;">
-      <a href="https://devpost.com/1999AZZAR" target="_blank" style="text-decoration: none;">
+      <a href="https://devpost.com/DYD298" target="_blank" style="text-decoration: none;">
         <i class="fas fa-laptop-code" style="font-size: 40px; color: #3498db;"></i>
         <br>DevPost
       </a>
