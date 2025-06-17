@@ -6,7 +6,23 @@
   </h4>
  <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Desan+Yasandu" alt="Typing SVG" /></a></center>
   <p style="max-width:600px; margin:auto; color:#555;">
-    I'm a Software Engineer, Graphic Programmer, Game Developer, and Penetration Tester. I enjoy building creative software, designing games, exploring graphics, and testing systems for security.
+    I am an undergraduate software engineering student with a strong passion for coding, algorithms, and software development. Currently pursuing my Degree in Software Engineering, I am continuously expanding my knowledge.
+
+🔹 Technical Skills:
+✔ Proficient in programming and actively enhancing my coding skills.
+✔ Strong foundation in algorithms, data structures, and problem-solving.
+✔ Interest in full-stack development and software architecture.
+
+🔹 What Drives Me?
+I am eager to build scalable and efficient applications that solve real-world problems as well as contributing to innovative tech solutions and collaborating with like-minded professionals.
+
+🔹 Beyond Coding:
+Apart from programming, I have a passion for music 🎶. I create and upload Sinhala, English, and Hindi song covers on my YouTube channel – "Desan Yasandu". This creative side helps me bring a fresh perspective to problem-solving and teamwork.
+
+💡 Open to Learning & Collaborations
+I am constantly looking for opportunities to learn, intern, and work on projects that challenge me to grow. If you're in the tech industry or looking for a dedicated software engineering enthusiast, let's connect!
+
+📩 Feel free to reach out—I'm always happy to discuss tech, music, or collaboration opportunities! 🚀
   </p>
 </div>
 
@@ -25,10 +41,10 @@
   <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📫 Contact Me</summary>
   <div align="center">
     <p>
-      <a href="kushanrandikaherath@outlook.com" target="_blank">
+      <a href="desanyasandu@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 30px; margin: 0 5px;">
       </a>
-      <a href="https://www.linkedin.com/in/my/" target="_blank">
+      <a href="www.linkedin.com/in/iamdesan" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px; margin: 0 5px;">
       </a>
     </p>
