@@ -15,14 +15,6 @@
 
 🔹 What Drives Me?
 I am eager to build scalable and efficient applications that solve real-world problems as well as contributing to innovative tech solutions and collaborating with like-minded professionals.
-
-🔹 Beyond Coding:
-Apart from programming, I have a passion for music 🎶. I create and upload Sinhala, English, and Hindi song covers on my YouTube channel – "Desan Yasandu". This creative side helps me bring a fresh perspective to problem-solving and teamwork.
-
-💡 Open to Learning & Collaborations
-I am constantly looking for opportunities to learn, intern, and work on projects that challenge me to grow. If you're in the tech industry or looking for a dedicated software engineering enthusiast, let's connect!
-
-📩 Feel free to reach out—I'm always happy to discuss tech, music, or collaboration opportunities! 🚀
   </p>
 </div>
 
