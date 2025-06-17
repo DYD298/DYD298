@@ -1,191 +1,65 @@
-<div align="center">
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
-  <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Desan Yasandu Dewmila</h1>
-  <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
-   Software Engineer
-  </h4>
- <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Desan+Yasandu" alt="Typing SVG" /></a></center>
-  <p style="max-width:600px; margin:auto; color:#555;">
-    I am an undergraduate software engineering student with a strong passion for coding, algorithms, and software development. Currently pursuing my Degree in Software Engineering, I am continuously expanding my knowledge.
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Desan Yasandu</h1>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dyd298&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-🔹 Technical Skills:
-✔ Proficient in programming and actively enhancing my coding skills.
-✔ Strong foundation in algorithms, data structures, and problem-solving.
-✔ Interest in full-stack development and software architecture.
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 
-🔹 What Drives Me?
-I am eager to build scalable and efficient applications that solve real-world problems as well as contributing to innovative tech solutions and collaborating with like-minded professionals.
-  </p>
-</div>
+- 🧑‍🎓 I’m an Undergraduate at **NIBM**
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+- 📫 How to reach me **desanyasandu@gmail.com**
+  
+- ⚡ Fun fact **Call me as DYD**
 
-<div align="center">
-  <a href="https://1999azzar.github.io/DYD298/" target="_blank">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="Logo"
-         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
-  </a>
-</div>
+</td>
+<td width="50%" align="center">
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📫 Contact Me</summary>
-  <div align="center">
-    <p>
-      <a href="desanyasandu@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 30px; margin: 0 5px;">
-      </a>
-      <a href="www.linkedin.com/in/iamdesan" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px; margin: 0 5px;">
-      </a>
-    </p>
-    <p> 
-      <a href="https://twitter.com/siapa_hayosiapa" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="height: 30px; margin: 0 5px;">
-      </a>
-    </p>
-  </div>
-</details>
-
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">👤 About Me</summary>
-  <div align="center">
-    <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: auto; color: #555;">
-      <li>🔹 <strong>Languages:</strong> JavaScript, TypeScript, Python, C/C++,Java,C#,SQL,</li>
-    </ul>
-    <p>🔭 Currently developing a scalable e-commerce platform with integrated IoT monitoring.</p>
-    <p>🌱 Learning microservices, cloud-native designs, and edge computing architectures.</p>
-  </div>
-</details>
-
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">💻 GitHub Stats</summary>
-  <div align="center">
-    <table align="center">
-      <tr>
-        <td width="50%" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=DYD298&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
-        </td>
-        <td width="50%" align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=DYD298&theme=gruvbox&hide_border=true" alt="Streak Stats">
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">🔍 Profile Insights</summary>
-  <div align="center">
-    <table align="center">
-      <tr>
-        <td align="center">
-          <img src="https://komarev.com/ghpvc/?username=DYD298&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="height: 40px; margin: 0 10px;">
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" alt="Website Status" style="height: 40px; margin: 0 10px;">
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Page Build Status" style="height: 40px; margin: 10px;">
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" alt="License" style="height: 40px; margin: 10px;">
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📅 Recent Activity</summary>
-  <div align="center">
-    <a href="https://github.com/Kushan20070126" target="_blank">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DYD298&theme=github-compact&hide_border=true" alt="Activity Graph" style="border-radius: 10px; margin: 0 5px;">
-    </a>
-  </div>
-</details>
-
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">💖 Support Me</summary>
-  <div align="center">
-    <p>If you’d like to support my work, you can donate via PayPal:</p>
-    <a href="https://paypal.me/my" target="_blank">
-      <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal" alt="PayPal Donation" style="height: 40px; margin: 0 5px;">
-    </a>
-  </div>
-</details>
-
-<h5 style="color: #2e8b57; font-size: 1.4em;">🔗 Related Accounts</h5>
-<table align="center" style="border-collapse: collapse; text-align: center;">
-  <tr>
-    <td style="padding: 10px;">
-      <a href="https://gist.github.com/DYD298" target="_blank" style="text-decoration: none;">
-        <i class="fa fa-github" style="font-size: 40px; color: #333;"></i>
-        <br>Gist
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://github.com/lily-osp/" target="_blank" style="text-decoration: none;">
-        <i class="fa fa-github" style="font-size: 40px; color: #333;"></i>
-        <br>Lily Osp
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://wokwi.com/makers/my" target="_blank" style="text-decoration: none;">
-        <i class="fas fa-microchip" style="font-size: 40px; color: #3498db;"></i>
-        <br>Wokwi
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://www.hackerrank.com/profile/my" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-hackerrank" style="font-size: 40px; color: #2ecc71;"></i>
-        <br>HackerRank
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://codepen.io/my" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-codepen" style="font-size: 40px; color: #000;"></i>
-        <br>CodePen
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">
-      <a href="https://devpost.com/DYD298" target="_blank" style="text-decoration: none;">
-        <i class="fas fa-laptop-code" style="font-size: 40px; color: #3498db;"></i>
-        <br>DevPost
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://medium.com/@azzar_budiyanto" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-medium" style="font-size: 40px; color: #000;"></i>
-        <br>Medium
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://app.codecrafters.io/users/1999AZZAR" target="_blank" style="text-decoration: none;">
-        <i class="fas fa-code" style="font-size: 40px; color: #e74c3c;"></i>
-        <br>Codecrafters
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-linkedin" style="font-size: 40px; color: #0077b5;"></i>
-        <br>LinkedIn
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://twitter.com/siapa_hayosiapa" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-twitter" style="font-size: 40px; color: #1da1f2;"></i>
-        <br>X
-      </a>
-    </td>
-  </tr>
+  
+  </td>
+</tr>
 </table>
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+---
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dyd298&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dyd298&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dyd298&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="[https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ](https://www.youtube.com/@desanyasanduofficial)" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/iamdesan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="desanyasandu" height="50" width="50" /></a>
+<a href="(https://www.facebook.com/desan.yasandu.2025/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://www.instagram.com/kavee_dineth/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+</p>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> </a> <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> </a> </p>
+
+---
+
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
