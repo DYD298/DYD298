@@ -4,7 +4,7 @@
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
    Software Engineer | Game Developer
   </h4>
- <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Desan+Yasandu" alt="Typing SVG" /></a>font=Fira+Code&size=25&pause=1000&color=41F734&width=435&lines=Hello%2C+I'm+Kushan+Randika%2C;
+ <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Desan+Yasandu" alt="Typing SVG" />
   <p style="max-width:600px; margin:auto; color:#555;">
     I'm a Software Engineer, Graphic Programmer, Game Developer, and Penetration Tester. I enjoy building creative software, designing games, exploring graphics, and testing systems for security.
   </p>
