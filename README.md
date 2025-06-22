@@ -8,7 +8,7 @@
 <td width="50%" align="left">
   
 
-- 🧑‍🎓 I’m an Undergraduate at **NIBM**
+- 🧑‍🎓 I’m an Undergraduate SE Student
 
 - 📫 How to reach me **desanyasandu@gmail.com**
   
